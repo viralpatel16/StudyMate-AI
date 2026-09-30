@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+groq
+python-jose[cryptography]
+pydantic[email]
+pypdf
