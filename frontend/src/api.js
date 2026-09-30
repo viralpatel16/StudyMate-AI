@@ -1,5 +1,5 @@
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://studymate-ai-backend-uwsu.onrender.com";
 const TOKEN_KEY = "studymate_token";
 
 export function getToken() {
