@@ -201,17 +201,23 @@ Never commit real API keys, passwords, or secret values to the repository. Keep 
 ## Photos :
 ## Login Page
 <img width="1907" height="894" alt="image" src="https://github.com/user-attachments/assets/1082c3cb-de27-435e-a043-92375b636fea" />
+
 ## Registration Page
 <img width="1897" height="890" alt="image" src="https://github.com/user-attachments/assets/17ab98dc-768a-4a28-949a-3e6507d00deb" />
+
 ## Dashboard
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/db009d78-a87c-4ff9-b065-7e1aa606cca3" />
+
 ## My Material
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/94929c82-7159-44c8-a713-e084bf5e6463" />
+
 ## AI Summary
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a9f3eb52-3c9b-42b8-b788-cac74b65a02b" />
+
 ## AI Smart Quiz
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/887d21ce-280b-4054-8cf7-0494efe01205" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b8037ec4-520e-4578-8d2a-a2221df31648" />
+
 ## Flash Card
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/83493814-1018-4e5b-a487-b52681ea8c76" />
 
